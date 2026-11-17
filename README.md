@@ -4,6 +4,15 @@ An Android weather and city-management application integrating OpenWeather data 
 
 Developed collaboratively for CS427: Software Engineering at the University of Illinois Urbana-Champaign, spring 2026.
 
+## Overview
+
+<p align="center">
+  <img src="docs/images/login.png" alt="Login and theme description screen" width="280" />
+  <img src="docs/images/city-management.png" alt="City management screen with weather, map, and remove actions" width="280" />
+</p>
+
+*Android emulator screenshots: login and city management with locally seeded demo cities. Live weather and Gemini features require valid API credentials.*
+
 ## Features
 
 - Account registration and login.
