@@ -11,7 +11,6 @@ Developed collaboratively for CS427: Software Engineering at the University of I
   <img src="docs/images/city-management.png" alt="City management screen with weather, map, and remove actions" width="280" />
 </p>
 
-*Android emulator screenshots: login and city management with locally seeded demo cities. Live weather and Gemini features require valid API credentials.*
 
 ## Features
 
